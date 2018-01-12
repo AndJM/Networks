@@ -1,5 +1,3 @@
-## Networks
-
 ### 1 Degree distribution in networks
 
 + Project answers the question: are academic papers cited randomly (from within their original domain) or is there an underlying "hidden pattern"?
@@ -7,8 +5,8 @@
 + Determines a good model for the observed citation pattern
 + Includes basic analytic tools for network construction and examination of degree distribution
 + Produces three plots using matplotlib
-+ Uses a data set consisting of 27000+ nodes [alg_phys-cite.txt](degree distribution/closest%20pair%20and%20clustering/alg_phys-cite.txt)
-+ [Example networks](../example_networks.txt)
++ Uses a data set consisting of 27000+ nodes [alg_phys-cite.txt](degree%20distribution/alg_phys-cite.txt)
++ [Example networks](degree%20distribution/example_graphs.txt)
 
 ### 2 Network resilience
 
@@ -17,4 +15,4 @@
 + Computes the resilience of a network (a measure of its connectivity)
 + Computes an attack pattern (a particular sequence of nodes whose removal is used to compute resilience)
 + Produces three line plots
-+ Uses a data set  consisting of 1300+ nodes [alg_rf7.txt](../)
++ Uses a data set  consisting of 1300+ nodes [alg_rf7.txt](graph%20resilience/alg_rf7.txt)
