@@ -1,4 +1,4 @@
-### 1 Degree distribution in networks
+### Degree distribution in networks
 
 + Project answers the question: are academic papers cited randomly (from within their original domain) or is there an underlying "hidden pattern"?
 + See [tools.py](degree%20distribution/tools.py)
@@ -10,7 +10,7 @@
 + Uses a data set consisting of 27000+ nodes [(alg_phys-cite.txt)](degree%20distribution/alg_phys-cite.txt)
 + [Example networks](degree%20distribution/example_graphs.txt)
 
-### 2 Network resilience
+### Network resilience
 
 + Project implements BFS to compute the set of connected components of an undirected network
 + See [tools.py](graph%20resilience/tools.py)
